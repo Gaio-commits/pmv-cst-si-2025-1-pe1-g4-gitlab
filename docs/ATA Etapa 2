@@ -1,0 +1,54 @@
+Luiz Otávio: Formatação do trabalho
+Dispositivos invisiveis
+Dispositivos pessoais
+Colaboração no fluxograma de risco
+
+Política de segurança
+Itens 6, 7, 8, 10 e 11
+
+Nicolas : 
+Politica de Segurança
+12.	Proteção de Dados Pessoais e Privacidade
+12.1. Políticas de Retenção e Exclusão de Dados
+12.2. Minimização de Coleta de Dados
+12.3. Direito dos Titulares (DSARs)
+13.	Uso Aceitável de Recursos de TI
+13.1. Política de Uso de Dispositivos Pessoais (BYOD)
+13.2. Restrições a Aplicações Não Homologadas
+13.3. Monitoramento de Atividades Suspeitas
+14.	Gestão de Identidades e Acesso Privilegiado (PAM)
+14.1. Controle de Contas Privilegiadas
+14.2. Rotação de Credenciais
+14.3. Monitoramento de Sessões Privilegiada
+
+Davi Gaio:
+
+Etapa 2 - Fundamentos:
+1. Criação do Fluxograma
+2. Identificação dos componentes suscetíveis a eventos de segurança
+3. Mapear itens relacionados à TI invisível (Ajudei na realização)
+4. Identificar dispositivos pessoais (Ajudei na realização)
+5. Identificar riscos de segurança física e lógica (Ajudei na realização)
+
+Etapa 2 - Política:
+1. Introdução
+  1.1 Objetivo
+  1.2 Escopo
+2. Princípios de Segurança
+  2.1 Confidencialidade
+  2.2 Integridade
+  2.3 Disponibilidade
+3. Gerenciamento de Acesso
+  3.1 Controle de Acesso e Identidades
+  3.2 Autenticação
+  3.3 Autorização
+4. Segurança de Redes e Comunicações
+  4.1 Proteção de Redes
+  4.2 Monitoramento e detecção de intrusões
+14. Conformidade Legal e Regulatória
+  14.1 Conformidade com leis e regulamentações
+  14.2 Gerenciamento de vulnerabilidades e patches
+15. Responsabilidades
+  15.1 Direção
+  15.2 Equipe de Segurança da Informação
+  15.3 Funcionários
